@@ -17,19 +17,11 @@ Video
 Interest in VeriATL, but do not have time to install? Worry not! Quick demo of VeriATL on youtube:
 [Click to watch](https://youtu.be/rUPLvDHEXiY)
 
-How to run
-------
-Preparation:
-* Download VeriATL [Clone url](https://github.com/veriatl/Compiler.VeriATL.git)
-* Download OCLDecomposer [Clone url](https://github.com/veriatl/genTool.git)
-* Execute ant script to generate Boogie code. Type "ant help" to see what are the available options.
-
-
 
 Evaluation
 ------
 To help reproducing the evaluation result, the following artefacts are generated:
-* HSM2FSM / AF2 / AR / DB1 / DR1 / MB6 / MF6 / MT2. Each of these folders contains all the Boogie code to verify each postcondition and localize its fault for a given project (Generated from the previous steps). Within each folder, we have three kinds of artefacts:
+* HSM2FSM / AF2 / AR / DB1 / DR1 / MB6 / MF6 / MT2. Each of these folders contains all the Boogie code to verify each postcondition and localize its fault for a given project. Within each folder, we have three kinds of artefacts:
   * Auxu. The corresponding Boogie code of the case study.
   * Sub-goals. The Boogie code of the sub-goals / original postcondition.
   * Source. The source code for metamodels, model transformations, contracts and etc.
@@ -46,9 +38,5 @@ The following tools are needed to reproduce the result of the HSM2FSM case study
 * Z3 4.3+
 * Java 6+
 
-Contacts
-------
-> Zheng Cheng: zheng.cheng@inria.fr
 
-> Massimo Tisi: massimo.tisi@inria.fr
 
