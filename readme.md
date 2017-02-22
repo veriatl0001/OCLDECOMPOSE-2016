@@ -40,9 +40,9 @@ The following tools are needed to reproduce the result of the HSM2FSM case study
 
 Contacts
 ------
-Zheng Cheng [[zheng.cheng@inria.fr|zheng.cheng@inria.fr]]
+Zheng Cheng [zheng.cheng@inria.fr]
 
-Massimo Tisi [[massimo.tisi@inria.fr|massimo.tisi@inria.fr]]
+Massimo Tisi [massimo.tisi@inria.fr]
 
 
 
