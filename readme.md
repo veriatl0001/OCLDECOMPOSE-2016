@@ -14,7 +14,7 @@ Our evaluation observes three items that would impact fault localization for ATL
 
 Video
 ------
-Interest in VeriATL, but do not have time to install? Worry not! Quick demo of VeriATL on youtube:
+Interested in VeriATL, but do not have time to install? Worry not! Quick demo of VeriATL on youtube:
 [Click to watch](https://youtu.be/rUPLvDHEXiY)
 
 
